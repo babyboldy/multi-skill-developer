@@ -55,31 +55,31 @@ const Contact = () => {
               <ContactItem 
                 icon={Mail} 
                 title="Email" 
-                content="mariejoseph.kossonou@email.com" 
-                href="mailto:mariejoseph.kossonou@email.com" 
+                content="mariejosephkossonou@gmail.com" 
+                href="mailto:mariejosephkossonou@gmail.com" 
               />
               <ContactItem 
                 icon={Phone} 
                 title="Téléphone" 
-                content="+33 6 XX XX XX XX" 
-                href="tel:+33600000000" 
+                content="0708642974" 
+                href="tel:0708642974" 
               />
               <ContactItem 
                 icon={MapPin} 
                 title="Localisation" 
-                content="Paris, France" 
+                content="2 plateaux Aghien" 
               />
               <ContactItem 
                 icon={Github} 
                 title="GitHub" 
-                content="github.com/marie-kossonou" 
-                href="https://github.com/" 
+                content="github.com/babyboldy" 
+                href="https://github.com/babyboldy" 
               />
               <ContactItem 
                 icon={Linkedin} 
                 title="LinkedIn" 
-                content="linkedin.com/in/marie-kossonou" 
-                href="https://linkedin.com/" 
+                content="Marie Joseph Kossonou" 
+                href="https://www.linkedin.com/in/marie-joseph-kossonou-4b3804291" 
               />
             </div>
             
